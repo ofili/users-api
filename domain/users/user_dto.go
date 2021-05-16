@@ -3,7 +3,7 @@ package users
 import (
 	"strings"
 
-	"github.com/ofili/parkwella_utils_go/rest_errors"
+	"github.com/ofili/utils/rest_errors"
 )
 
 const (

@@ -1,10 +1,10 @@
 package services
 
 import (
-	"github.com/ofili/bookstore_users-api/domain/users"
-	"github.com/ofili/bookstore_users-api/utils/date"
-	"github.com/ofili/parkwella_utils_go/rest_errors"
-	"github.com/ofili/bookstore_users-api/utils/crypto_utils"
+	"github.com/ofili/users-api/domain/users"
+	"github.com/ofili/users-api/utils/date"
+	"github.com/ofili/utils/rest_errors"
+	"github.com/ofili/users-api/utils/crypto_utils"
 )
 
 var (

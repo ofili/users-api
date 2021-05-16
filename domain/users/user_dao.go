@@ -7,7 +7,7 @@ import (
 	"github.com/ofili/bookstore_users-api/datasources/mysql/users_db"
 	// "github.com/ofili/bookstore_users-api/utils/mysql_utils"
 	"github.com/ofili/bookstore_users-api/logger"
-	"github.com/ofili/parkwella_utils_go/rest_errors"
+	"github.com/ofili/utils/rest_errors"
 )
 
 const (

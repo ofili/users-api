@@ -3,8 +3,8 @@ package users
 import (
 	_ "fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/ofili/bookstore_users-api/domain/users"
-	"github.com/ofili/bookstore_users-api/services"
+	"github.com/ofili/users-api/domain/users"
+	"github.com/ofili/users-api/services"
 	"github.com/ofili/utils/rest_errors"
 	"net/http"
 	"strconv"
