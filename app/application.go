@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/ofili/bookstore_users-api/logger"
+	"github.com/ofili/users-api/logger"
 
 )
 

@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ofili/bookstore_users-api/datasources/mysql/users_db"
-	// "github.com/ofili/bookstore_users-api/utils/mysql_utils"
-	"github.com/ofili/bookstore_users-api/logger"
+	"github.com/ofili/users-api/datasources/mysql/users_db"
+	// "github.com/ofili/users-api/utils/mysql_utils"
+	"github.com/ofili/users-api/logger"
 	"github.com/ofili/utils/rest_errors"
 )
 
