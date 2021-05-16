@@ -5,7 +5,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/ofili/bookstore_users-api/domain/users"
 	"github.com/ofili/bookstore_users-api/services"
-	"github.com/ofili/parkwella_utils_go/rest_errors"
+	"github.com/ofili/utils/rest_errors"
 	"net/http"
 	"strconv"
 )
